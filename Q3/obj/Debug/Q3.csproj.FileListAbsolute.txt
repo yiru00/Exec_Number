@@ -1,0 +1,8 @@
+D:\Exec\Exec_Number\Q3\bin\Debug\Q3.exe.config
+D:\Exec\Exec_Number\Q3\bin\Debug\Q3.exe
+D:\Exec\Exec_Number\Q3\bin\Debug\Q3.pdb
+D:\Exec\Exec_Number\Q3\obj\Debug\Q3.csproj.AssemblyReference.cache
+D:\Exec\Exec_Number\Q3\obj\Debug\Q3.csproj.SuggestedBindingRedirects.cache
+D:\Exec\Exec_Number\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
+D:\Exec\Exec_Number\Q3\obj\Debug\Q3.exe
+D:\Exec\Exec_Number\Q3\obj\Debug\Q3.pdb

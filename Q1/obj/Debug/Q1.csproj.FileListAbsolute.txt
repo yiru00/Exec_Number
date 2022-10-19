@@ -1,0 +1,8 @@
+D:\Exec\Exec_Number\Q1\bin\Debug\Q1.exe.config
+D:\Exec\Exec_Number\Q1\bin\Debug\Q1.exe
+D:\Exec\Exec_Number\Q1\bin\Debug\Q1.pdb
+D:\Exec\Exec_Number\Q1\obj\Debug\Q1.csproj.AssemblyReference.cache
+D:\Exec\Exec_Number\Q1\obj\Debug\Q1.csproj.SuggestedBindingRedirects.cache
+D:\Exec\Exec_Number\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+D:\Exec\Exec_Number\Q1\obj\Debug\Q1.exe
+D:\Exec\Exec_Number\Q1\obj\Debug\Q1.pdb
